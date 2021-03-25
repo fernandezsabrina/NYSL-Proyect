@@ -1,0 +1,27 @@
+.flexColumn {
+    display: flex;
+    flex-direction: column;
+}
+
+.flexRow {
+    display: flex;
+}
+
+label, input, h1, h3, h4, p, div {
+    font-family: 'Poppins', sans-serif;
+}
+
+input {
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 20px;
+
+}
+
+.boldFont {
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
